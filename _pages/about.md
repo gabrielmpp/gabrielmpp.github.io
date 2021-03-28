@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">University of Reading</a>. Earley Gate, Reading, UK. gabrielmpp@protonmail.com
+description: <a href="#">University of Reading</a>, UK. gabrielmpp@protonmail.com
 
 profile:
   align: right
